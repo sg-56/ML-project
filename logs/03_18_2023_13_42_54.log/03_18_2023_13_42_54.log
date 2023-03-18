@@ -1,0 +1,4 @@
+[ 2023-03-18 13:42:54,136 ] 22 root - INFO - Entering Data Ingestion
+[ 2023-03-18 13:42:54,140 ] 25 root - INFO - Reading the dataset from local file as CSV
+[ 2023-03-18 13:42:54,144 ] 28 root - INFO - Splittling Raw data Into train and Test data
+[ 2023-03-18 13:42:54,148 ] 32 root - INFO - Ingestion and Splitting of data is completed!!

@@ -1,0 +1,6 @@
+[ 2023-03-18 13:50:54,482 ] 23 root - INFO - Entering Data Ingestion
+[ 2023-03-18 13:50:54,486 ] 26 root - INFO - Reading the dataset from local file as CSV
+[ 2023-03-18 13:50:54,490 ] 29 root - INFO - Splittling Raw data Into train and Test data
+[ 2023-03-18 13:50:54,495 ] 33 root - INFO - Ingestion and Splitting of data is completed!!
+[ 2023-03-18 13:50:54,498 ] 62 root - INFO - Reading Train and Test Data Set completed
+[ 2023-03-18 13:50:54,498 ] 63 root - INFO - Reading Preprocessing Object

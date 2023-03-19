@@ -1,0 +1,10 @@
+[ 2023-03-19 11:47:48,743 ] 28 root - INFO - Entering Data Ingestion
+[ 2023-03-19 11:47:48,743 ] 31 root - INFO - Reading the dataset from local file as CSV
+[ 2023-03-19 11:47:48,743 ] 34 root - INFO - Splittling Raw data Into train and Test data
+[ 2023-03-19 11:47:48,759 ] 38 root - INFO - Ingestion and Splitting of data is completed!!
+[ 2023-03-19 11:47:48,759 ] 66 root - INFO - Reading Train and Test Data Set completed
+[ 2023-03-19 11:47:48,759 ] 67 root - INFO - Reading Preprocessing Object
+[ 2023-03-19 11:47:48,759 ] 45 root - INFO - Categorical_columns :['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2023-03-19 11:47:48,759 ] 46 root - INFO - Numerical COlumns : ['reading_score', 'writing_score']
+[ 2023-03-19 11:47:48,759 ] 84 root - INFO - Applying Preprocessing to train and test Data
+[ 2023-03-19 11:47:48,775 ] 91 root - INFO - Saving Preprocessing Object

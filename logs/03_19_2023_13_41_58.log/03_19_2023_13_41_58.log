@@ -1,0 +1,10 @@
+[ 2023-03-19 13:41:58,171 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-19 13:41:58,175 ] 224 werkzeug - INFO -  * Debugger PIN: 708-872-926
+[ 2023-03-19 13:42:03,106 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:42:03] "GET / HTTP/1.1" 200 -
+[ 2023-03-19 13:42:11,826 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:42:11] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-03-19 13:42:23,680 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:42:23] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-03-19 13:42:23,714 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:42:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-03-19 13:42:23,716 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:42:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-03-19 13:42:23,738 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:42:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-03-19 13:42:23,761 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:42:23] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-03-19 13:43:02,534 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\csc\\desktop\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading

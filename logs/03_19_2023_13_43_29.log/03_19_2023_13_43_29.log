@@ -1,0 +1,6 @@
+[ 2023-03-19 13:43:29,211 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-03-19 13:43:29,211 ] 224 werkzeug - INFO -  * Debugger PIN: 708-872-926
+[ 2023-03-19 13:43:30,054 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:43:30] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-03-19 13:43:41,835 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:43:41] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-03-19 13:43:58,953 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Mar/2023 13:43:58] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-03-19 13:44:25,568 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\csc\\desktop\\mlproject\\app.py', reloading
